@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^1.2.1",
+    "@vicons/ionicons5": "^0.12.0",
     "fibers": "^5.0.3",
     "node-sass": "^7.0.3",
     "nuxt": "3.0.0-rc.9",
